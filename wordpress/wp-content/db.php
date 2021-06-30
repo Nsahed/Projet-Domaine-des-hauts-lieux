@@ -1,0 +1,1 @@
+/var/www/html/Projet/projet-domaine-des-hauts-lieux/wordpress/wp-content/plugins/query-monitor/wp-content/db.php

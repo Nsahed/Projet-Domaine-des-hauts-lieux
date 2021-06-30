@@ -1,0 +1,1043 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scroll Magic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-22 11:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:465
+#, php-format
+msgid "100% 100%"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:464
+msgid "50%"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/scrollmagic.shortcode.php:64
+msgid "A full-fledged scrolling animation"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:750
+msgid "Absolute"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:8
+msgid "Action"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:55
+msgid "Add New Scene"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:81
+msgid "Add Option to Shortcodes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:424
+msgid "Add Scene"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:97
+msgid "After"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:29
+msgid "Align"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:80
+msgid "Alignment"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:799
+msgid "All childs"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:59
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:392
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:393
+msgid "All Scenes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:463
+msgid "Auto"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:444
+msgid "Background"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:507
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:509
+msgid "Background Attachment"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:522
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:524
+msgid "Background Color"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:472
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:474
+msgid "Background Position"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:492
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:494
+msgid "Background Repeat"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:457
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:459
+msgid "Background Size"
+msgstr ""
+
+#. Author of the plugin
+msgid "BestBug"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:99
+msgid "Bezier"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:208
+msgid "Black - Heavy (900)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:41
+msgid "Blank space with custom height and width"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:647
+msgid "Block"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:803
+msgid "Block Content"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:801
+msgid "Blockquote"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:196
+msgid "Bold (700)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:539
+msgid "Border"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:592
+msgid "Border Color"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:604
+msgid "Border radius"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:571
+msgid "Border Style"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:391
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:425
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:554
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:771
+msgid "Bottom"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:625
+msgid "BottomLeft"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:619
+msgid "BottomRight"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:42
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/image_group.shortcode.php:65
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/imagesequence.shortcode.php:45
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/scrollmagic.shortcode.php:65
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/single_image.shortcode.php:43
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:280
+msgid "Capitalize"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:125
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:33
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:88
+msgid "Center"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:486
+msgid "Center bottom"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:485
+msgid "Center center"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:484
+msgid "Center top"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:29
+msgid "Choose an Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/single_image.el.php:60
+msgid "Choose Image or SVG file"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:60
+msgid "Choose Images"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:100
+msgid "Class"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:361
+msgid "Clip"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:590
+msgid "Color"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:467
+msgid "Contain"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:34
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:59
+msgid "Content"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:37
+msgid "Content affected by ScrollMagic"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:466
+msgid "Cover"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:7
+msgid "CSS Class"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:576
+msgid "Dashed"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:113
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:154
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:226
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:256
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:298
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:344
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:360
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:462
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:477
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:497
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:512
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:574
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:645
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:748
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:51
+msgid "Default"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:26
+msgid "Delete"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:74
+msgid "Desktop Mode"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:638
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:641
+msgid "Display"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:575
+msgid "Dotted"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:578
+msgid "Double"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:24
+msgid "Duplicate"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:98
+msgid "Ease"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:21
+msgid "Edit"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:57
+msgid "Edit Scene"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:362
+msgid "Ellipsis"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:36
+msgid "Empty Space"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:77
+msgid "Enable/Disable Scrollmagic on Desktop"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:70
+msgid "Enable/Disable Scrollmagic on Mobiles"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:26
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:34
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/empty_space.el.php:60
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/empty_space.el.php:71
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:47
+msgid "Enter empty space height (Note: CSS measurement units allowed)."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:54
+msgid "Enter empty space width (Note: CSS measurement units allowed)."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:798
+msgid "Example selector"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:202
+msgid "Extra Bold - Ultra Bold (800)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:60
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/image_group.shortcode.php:79
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/imagesequence.shortcode.php:68
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/scrollmagic.shortcode.php:79
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/single_image.shortcode.php:54
+msgid "Extra class name"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:166
+msgid "Extra Light - Ultra Light (200)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:514
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:751
+msgid "Fixed"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:648
+msgid "Flex"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:76
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:77
+msgid "Font family"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:84
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:85
+msgid "Font size"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:218
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:220
+msgid "Font style"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:147
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:149
+msgid "Font weight"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:101
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/empty_space.el.php:52
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:52
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:52
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/single_image.el.php:52
+msgid "General"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:96
+msgid "General Settings"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/imagesequence.shortcode.php:44
+msgid "GIF-like behaviour controlled by the scroll bar"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:579
+msgid "Groove"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:800
+msgid "Heading"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:685
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:31
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/empty_space.el.php:59
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:46
+msgid "Height"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:582
+msgid "Hidden"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://lamblue.com/scroll-magic"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:5
+msgid "ID"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:12
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:12
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:12
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:13
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:25
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/single_image.el.php:59
+msgid "Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/image_group.shortcode.php:58
+msgid "Image group"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/image_group.shortcode.php:64
+msgid "Image Group specifies the horizontal alignment of Single Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/imagesequence.shortcode.php:39
+msgid "Image Sequence"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:59
+msgid "Images"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:351
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:365
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:503
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:517
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:586
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:665
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:755
+msgid "Inherit"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:102
+msgid "Init"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:350
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:364
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:468
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:502
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:516
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:585
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:664
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:754
+msgid "Initial"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:646
+msgid "Inline"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:649
+msgid "Inline-block"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:650
+msgid "Inline-flex"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:651
+msgid "Inline-table"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:583
+msgid "Inset"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:334
+msgid "Irks! An error has occurred."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:238
+msgid "Italic"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:137
+msgid "Justify"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:119
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:397
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:431
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:560
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:777
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:32
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:84
+msgid "Left"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:480
+msgid "Left bottom"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:479
+msgid "Left center"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:478
+msgid "Left top"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:96
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:97
+msgid "Letter spacing"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:172
+msgid "Light (300)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:90
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:91
+msgid "Line height"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:322
+msgid "Line through"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:805
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:13
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:13
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:13
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:14
+msgid "Link"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:804
+msgid "List"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:652
+msgid "List-item"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/scrollmagic.class.php:95
+msgid "Live Preview"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:515
+msgid "Local"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:274
+msgid "Lowercase"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:410
+msgid "Margin"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:707
+msgid "Max Height"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:701
+msgid "Max Width"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:698
+msgid "Max Width & Max Height"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:184
+msgid "Medium (500)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:67
+msgid "Mobile Mode"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:56
+msgid "New Scene"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:63
+msgid "No Scenes found in Trash."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:62
+msgid "No Scenes found."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:501
+msgid "No-repeat"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:262
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:304
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:581
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:663
+msgid "None"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:232
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:345
+msgid "Normal"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:178
+msgid "Normal (400)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:346
+msgid "Nowrap"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:48
+msgid "Order By"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:584
+msgid "Outset"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:310
+msgid "Overline"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:376
+msgid "Padding"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:61
+msgid "Parent Scenes:"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:60
+msgid "Place your content"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:741
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:744
+msgid "Position"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:347
+msgid "Pre"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:348
+msgid "Pre-line"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:349
+msgid "Pre-wrap"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:52
+msgid "Random"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:806
+msgid "Read more"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:752
+msgid "Relative"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:498
+msgid "Repeat"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:499
+msgid "Repeat-x"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:500
+msgid "Repeat-y"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:580
+msgid "Ridge"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:131
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:385
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:419
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:548
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:765
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:34
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:92
+msgid "Right"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:483
+msgid "Right bottom"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:482
+msgid "Right center"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:481
+msgid "Right top"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:653
+msgid "Run-in"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:70
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:71
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/single_image.el.php:70
+msgid "Sample: scene-1, scene-2"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/classes/options.class.php:249
+msgid "Save Changes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:54
+msgctxt "Scene"
+msgid "Add New"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:51
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:53
+msgctxt "Scene"
+msgid "Scene"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/templates/scenes.view.php:6
+msgid "Scene Title"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:40
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:42
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:41
+msgid "Scenes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:50
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:52
+msgctxt "Scenes"
+msgid "Scenes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:68
+msgid "Scenes settings."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:513
+msgid "Scroll"
+msgstr ""
+
+#. Name of the plugin
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/scrollmagic.shortcode.php:58
+msgid "Scroll Magic"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:8
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:16
+msgid "ScrollMagic"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:8
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/empty_space.el.php:16
+msgid "ScrollMagic Empty Space"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"ScrollMagic helps you to easily react to the user's current scroll position."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:8
+msgid "ScrollMagic Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/use-options.class.php:72
+msgid "ScrollMagic mode"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:8
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:16
+msgid "ScrollMagic Sequence Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/single_image.el.php:16
+msgid "ScrollMagic Single Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:60
+msgid "Search Scenes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:790
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:793
+msgid "Selector"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:190
+msgid "Semi Bold - Demi Bold (600)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:23
+msgid "Senquence Images"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:30
+msgid "Set As Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:96
+msgid "Shortcodes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/single_image.shortcode.php:42
+msgid "Simple image and SVG file"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/single_image.shortcode.php:37
+msgid "Single Image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:104
+msgid "Smooth scrolling"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:577
+msgid "Solid"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:749
+msgid "Static"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:753
+msgid "Sticky"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:363
+msgid "String"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:569
+msgid "Style"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:61
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/image_group.shortcode.php:80
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/imagesequence.shortcode.php:69
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/scrollmagic.shortcode.php:80
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/single_image.shortcode.php:55
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:654
+msgid "Table"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:655
+msgid "Table-caption"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:660
+msgid "Table-cell"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:661
+msgid "Table-column"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:656
+msgid "Table-column-group"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:658
+msgid "Table-footer-group"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:657
+msgid "Table-header-group"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:662
+msgid "Table-row"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:659
+msgid "Table-row-group"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:64
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:802
+msgid "Text"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:105
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:107
+msgid "Text align"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:67
+msgid "Text Color"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:69
+msgid "Text color"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:290
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:292
+msgid "Text decoration"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:355
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:357
+msgid "Text overflow"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:248
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:250
+msgid "Text transform"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:43
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:45
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:44
+msgid "The Scene Ids split by commas"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/imagesequence.el.php:69
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:70
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/single_image.el.php:69
+msgid "The ScrollMagic Scene Ids split by commas"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:160
+msgid "Thin - Hairline (100)"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/scrollmagic.el.php:62
+msgid "This is the Content"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:379
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:413
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:542
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:759
+msgid "Top"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:607
+msgid "TopLeft"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:613
+msgid "TopRight"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:14
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/imagesequence.divi.php:14
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/scrollmagic.divi.php:14
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:15
+msgid "Transform & Rotation"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/classes/options.class.php:158
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/classes/options.class.php:226
+msgid "Type-field is not exists"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:316
+msgid "Underline"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:28
+msgid "Upload an image"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/single_image.divi.php:36
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:268
+msgid "Uppercase"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/admin/options.class.php:88
+msgid "Use for all Shortcodes"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/posttypes.class.php:58
+msgid "View Scene"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:339
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:341
+msgid "White space"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:679
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/divi/empty_space.divi.php:23
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/elementor/empty_space.el.php:70
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/shortcodes/js_composer/empty_space.shortcode.php:53
+msgid "Width"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:676
+msgid "Width & Height"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:333
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/bestbugcore/extend/vc-params/responsive.class.php:334
+msgid "Word spacing"
+msgstr ""
+
+#: ../../../../../../Codecanyon/scroll_magic/scroll_magic/includes/use-options.class.php:84
+msgid "You can add, edit Scene in Scene panel"
+msgstr ""

@@ -1,0 +1,11 @@
+# On active le module de réécriture d'URL d'Apache
+RewriteEngine on
+# On ne redirige pas les URLs qui pointent vers le dossier du code source de WordPress
+RewriteCond %{REQUEST_URI} !^wordpress/
+# On ne redirige pas les URLs qui pointent vers un fichier existant physiquement (par exemple les fichiers CSS, JS, ...)
+RewriteCond %{REQUEST_FILENAME} !-f
+# On ne rediriege pas les URLs qui pointent vers un dossier existant physiquement (par exemple wp-admin, ...)
+RewriteCond %{REQUEST_FILENAME} !-d
+# Si toutes les conditions précédentes sont respectées, on redirige la requête HTTP vers index.php tout en envoyant à la suite de index.php l'URL réécrite
+# Par exemple /bonjour-tout-le-monde -> index.php/bonjour-tout-le-monde
+RewriteRule ^(.*)$ index.php/$1

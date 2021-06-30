@@ -1,0 +1,258 @@
+.eventTitle {
+
+    text-align: center;
+    color:rgb(154, 13, 98);
+    font-family: 'TeXGyreAdventorRegular';
+   
+    font-size: 70px;
+    font-weight: 900;
+    
+    letter-spacing: 0px;
+    height: 30px;
+    line-height: 1px;
+    
+    
+    padding-top: 40px;
+  
+    
+}
+
+#ercszmmct8dk1{
+    margin: 45px 0px 0px 420px;
+    height: 500px;
+   
+    
+}
+.eventContainer {
+    //display: flex;
+    border-radius: 30px;
+    margin: 60px 50px 50px 200px;
+    padding: 20px;
+    width: 1500px;
+    background-color:rgba($color: #556166c0, $alpha: 0.7);
+    
+   
+    
+}
+
+
+
+.postEventTitle {
+    margin-left: 600px;
+    font-family:'roboto';
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+.eventContent {
+    font-family: 'font-family: 'Sulphur Point', sans-serif;';
+    font-style: italic;
+    color: rgb(237, 233, 241);
+    text-align: center;
+    font-size: 25px;
+    width: 1000px ;
+    height: 200px;
+    margin-left:250px;
+}
+
+.nbrinscrit {
+    font-family: 'font-family: 'Sulphur Point', sans-serif;';
+    font-style: italic;
+    color: rgb(237, 233, 241);
+    text-align: center;
+    font-size: 1.75rem;
+    color:#C5AE49;
+    
+}
+
+.suscribeInput {
+    background-color: whitesmoke;
+    margin: 5px 0px 0px 80px;
+}
+
+.form-event {
+    background-color:rgba($color: white, $alpha: 0.3) ;
+    padding: 10px;
+    border: thin  ;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 100px;
+    margin-bottom: 60px;
+    color:black;
+    font-weight: bold;
+}
+
+.form-event-input {
+    width: 150px;
+}
+
+.nameForm {
+    margin-left: 20px;
+}
+
+.emailForm {
+    margin-left: 20px;
+}
+
+.addressForm {
+    margin-left: 30px;
+}
+.confirm {
+    text-align: center;
+    color: rgb(206, 192, 236);
+    font-family: 'roboto';
+    font-size: 50px;
+    border: thin solid rgb(40, 159, 228);
+    margin: 100px 0px 0px 650px;
+    width: 600px;
+}
+
+.confirmMail {
+    text-align: center;
+    color: rgb(10, 10, 10);
+    font-family: 'roboto';
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.confirmContainer {
+    height: 500px;
+}
+
+.logoConfirm {
+    
+        width:300px;
+        margin: 5px 0px 0px 800px;
+    }
+
+
+.dateEvent {
+    font-family: 'TeXGyreAdventorRegular';
+   font-weight: normal; 
+   font-style: normal;
+   font-size: 55px;
+   font-weight: 900;
+   text-transform: none;
+   letter-spacing: 0px;
+   height: 50px;
+   line-height: 30px;
+   padding:20px;
+    //border: thin solid white;
+    width: 140px;
+    color: white;
+    float: left;
+    margin-left: 40px;
+   
+
+}
+
+.EventContainer {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-left: 210px;
+}
+
+.descriptionContainer {
+    
+    margin: 50px 0px 0px 40px;
+    font-family: 'roboto';
+    font-size: 20px;
+    padding: 20px;
+    height: 180px;
+    color:#C5AE49;
+    font-size:bold;
+}
+
+.place {
+    font-family: 'font-family: 'Sulphur Point', sans-serif;';
+    font-style: italic;
+    text-align: center;
+    font-size: 1.75rem;
+    color:#C5AE49;
+
+}
+
+.nbrinscription {
+    font-family: 'font-family: 'Sulphur Point', sans-serif;';
+    font-style: italic;
+    text-align: center;
+    font-size: 1.75rem;
+    color:#C5AE49;
+
+}
+
+.maxiEventContainer { 
+    
+    background-image: url('../assets/images/Micka_DomLHL_Pics_Media/PicsVendangesLHL/DSC03010.jpg');
+    //background-color: lightsteelblue;
+    background-size: cover;
+    background-position: center;
+    height:3000px;
+
+
+}
+
+
+.imageEvent {
+    filter: drop-shadow(0 0 1rem rgb(56, 5, 15));
+    position: relative;
+    z-index: 2;
+    margin-top: 40px;
+    
+
+}
+.nameInput {
+
+    margin-left: 15px;
+}
+
+.emailInput {
+    margin-left: 15px;
+}
+
+.addressInput {
+    margin-left: 10px;
+}
+
+.headerEvent {
+    h1 {
+        text-align: center;
+        color: white;
+        font-family: Lobster, sans-serif;
+        font-size: 14rem;
+        margin: 0;
+        position: relative;;
+        top: 15rem;
+        letter-spacing: 5px;
+        width: 95%;
+      }
+        
+      nav {
+        overflow: hidden;
+        position: fixed;
+        background-color:rgba($color: white, $alpha: 0.7);
+        top: 0;
+        width: 100%;
+        z-index: 3;
+        ul {
+          text-align: center;
+          list-style-type: none;
+          margin: 0;
+          padding: 15px;
+          li {
+            display: inline;
+            font-family: $text-font-stack;
+            font-size: 17px;
+            a {
+              color:#C5AE49;
+              font-weight: bold;
+              text-decoration: none;
+              padding: 15px;
+
+        }
+      }
+    }
+  }
+}

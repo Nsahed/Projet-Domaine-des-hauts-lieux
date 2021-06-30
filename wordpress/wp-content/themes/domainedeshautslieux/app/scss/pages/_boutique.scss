@@ -1,0 +1,77 @@
+.boutiqueImage {
+    width:100%;
+    height: 500px;
+    background-image: url('../assets/images/Micka_DomLHL_Pics_Media/PicsCaveLHL/IMG_0151.jpeg');
+    background-size: cover;
+    padding: 250px 0px 0px 150px;
+    font-size: 90px;
+    color: #9a0d62;
+    font-weight: 900;
+
+}
+
+.imageVinRouge {
+     width: auto;
+
+}
+.logo {
+    width:300px;
+    float: left;
+}
+.rougeContainer {
+    display: flex;
+    margin: 70px 0px 0px;
+    border: thin solid #9a0d62;
+    width: 1200px;
+    margin-left: 300px;
+    margin-bottom: 40px;
+}
+.cuveDescriptionContainer {
+    //display: flex;
+    margin: 20px 0px 0px;
+}
+
+.pannierButton {
+    color: white;
+    border: thin solid black;
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.cuveRougeTitle {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.vigneronTexte {
+    width: 500px;
+}
+
+.nosvinsTitle {
+    margin-left: 750px;
+    font-size: 80px;
+    font-family: 'roboto';
+    border-bottom: thin solid black;
+    width:290px;
+    font-family: 'roboto';
+
+}
+
+.mielTitle {
+    margin-left: 750px;
+    font-size: 80px;
+    font-family: 'roboto';
+    border-bottom: thin solid black;
+    width:350px;
+
+
+}
+
+.prix {
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 30px;
+
+}

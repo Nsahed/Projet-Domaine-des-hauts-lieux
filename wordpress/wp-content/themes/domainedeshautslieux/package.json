@@ -1,0 +1,43 @@
+{
+  "name": "wordpress-theme-webpack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run clean && export NODE_ENV=watch && webpack-dev-server --progress --colors --watch --config webpack.config.dev.js",
+    "clean": "rm -rf public",
+    "clean:all": "rm -rf public node_modules",
+    "build:dev": "npm run clean && webpack --config webpack.config.dev.js",
+    "build:prod": "npm run clean && webpack --config webpack.config.prod.js",
+    "css": "node-sass --output-style compressed --include-path scss wp-domainedeshautslieux/public/css/main.scss style.css",
+    "watch": "nodemon -e scss -x \"npm run css\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.7.2",
+    "browser-sync": "^2.26.7",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "chokidar": "^2.1.8",
+    "copy-webpack-plugin": "^4.6.0",
+    "css-loader": "^2.1.1",
+    "file-loader": "^4.3.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.13.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.3.1",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.41.3",
+    "webpack-build-notifier": "^1.2.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "jquery.scrollex": "^0.2.1",
+    "rellax": "^1.10.0"
+  }
+}

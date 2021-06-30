@@ -1,0 +1,28 @@
+@import "dots";
+
+.bbsm-text-left {
+	text-align: left!important;
+}
+.bbsm-text-center {
+	text-align: center !important;
+}
+.bbsm-text-right {
+	text-align: right !important;
+}
+.bbsm-single-image {
+	display: inline-block;
+	img {
+		max-width: 100%;
+	}
+}
+.sm-inner-row {
+    max-width: 1170px!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+.bb-scrollmagic-trigger {
+    float: left;
+}
+.scene-horizontal > * {
+	white-space: nowrap;
+}
